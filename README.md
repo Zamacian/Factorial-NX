@@ -20,15 +20,20 @@ The letter showed before the value of the number is what executed the action :
   - (A) means you added 1 by pressing A
   - (B) means you substracted 1 by pressing B
   - (X) or (Y) means you set the number to 0 by pressing X or Y
-  - (S) means that the system automatically changed the number value, printed the number value
+  - (S) means that the system automatically changed the number value/ printed the number value
+  
 Feel free to copy and distribute it as much as you want without any legal restrictions.
-Could be optimized but then the code would be very ugly
+
+Could be optimized but then the code would be very ugly.
 # Pictures :
 Main look and operation :
+
 ![FactorialNXImg3](https://user-images.githubusercontent.com/124669534/235327250-d9a90377-bb9d-426d-8aa5-2c68ad6c1ccf.jpg)
 
 What happens when you press A, B and X :
+
 ![FactorialNXImg1](https://user-images.githubusercontent.com/124669534/235327209-e8877291-833c-49b2-aab1-91b3af10f83f.jpg)
 
 Help menu :
+
 ![FactorialNXImg2](https://user-images.githubusercontent.com/124669534/235327242-f34e3f68-9298-4607-aaf0-122e70964660.jpg)
