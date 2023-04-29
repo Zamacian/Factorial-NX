@@ -1,8 +1,6 @@
 # Factorial-NX
 A Nintendo Switch homebrew to calculate the factorial of a number.
-
 Because of 2^63 being the highest number the switch supports, you can't go over 25 factorial.
-
 Note that I made this Homebrew only to learn how to use basics of libnx and isn't really usefull.
 You can look at the source code to also learn how to make Homebrews.
 # Commands :
