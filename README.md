@@ -25,6 +25,8 @@ The letter showed before the value of the number is what executed the action :
 Feel free to copy and distribute it as much as you want without any legal restrictions.
 
 Could be optimized but then the code would be very ugly.
+
+App icon generated using Dall-E 2
 # Pictures :
 Main look and operation :
 
