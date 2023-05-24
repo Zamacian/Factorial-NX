@@ -5,8 +5,7 @@
 #include <switch.h> 
 
 void clear() {
-    printf("Factorial NX [1.0.0] [2023]\nHomebrew by Zamacian\nThis work is freely distributable under public domain.\n");
-    printf("\n");
+    printf("Factorial NX [1.0.0] [2023]\nHomebrew by Zamacian\nThis work is freely distributable under public domain.\n\n");
     printf("      <<   a to add 1  >>\n");
     printf("      <<   b to sub 1  >>\n");
     printf("      <<   y to set 0  >>\n");
@@ -15,8 +14,7 @@ void clear() {
     printf("      <<   r to clear  >>\n");
     printf("      <<  - to factor  >>\n");
     printf("      <<   + to exit   >>\n");
-    printf("      << else for help >>\n");
-    printf("\n");
+    printf("      << else for help >>\n\n");
 }
 
 void help() {
@@ -29,15 +27,14 @@ void help() {
     printf("           r to clear \n");
     printf("           - to factor \n");
     printf("           + to exit \n");
-    printf("           else for help \n");
-    printf("\n");
+    printf("           else for help \n\n");
 }
 
-long factorial(long n) {
-    if(n == 0 || n == 1) {
+long factorial(long f) {
+    if(f == 0 || f == 1) {
         return 1;
     } else {
-        return n * factorial(n-1);
+        return f * factorial(f-1);
     }
 }
 
@@ -50,8 +47,7 @@ int main(int argc, char* argv[])
     PadState pad;
     padInitializeDefault(&pad);
 
-    printf("Factorial NX [1.0.0] [2023]\nHomebrew by Zamacian\nThis work is freely distributable under public domain.\n");
-    printf("\n");
+    printf("Factorial NX [1.0.0] [2023]\nHomebrew by Zamacian\nThis work is freely distributable under public domain.\n\n");
     printf("      <<   a to add 1  >>\n");
     printf("      <<   b to sub 1  >>\n");
     printf("      <<   y to set 0  >>\n");
@@ -60,8 +56,7 @@ int main(int argc, char* argv[])
     printf("      <<   r to clear  >>\n");
     printf("      <<  - to factor  >>\n");
     printf("      <<   + to exit   >>\n");
-    printf("      << else for help >>\n");
-    printf("\n");
+    printf("      << else for help >>\n\n");
     printf("(S) Number : 0\n");
 
     int number = 0;
