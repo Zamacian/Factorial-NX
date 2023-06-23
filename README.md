@@ -10,7 +10,7 @@ To make things easier, let's just say that the number you want to factor is call
   - a to add 1 to Jeffrey
   - b to subtract 1 from Jeffrey
   - x or y to set Jeffrey to 0
-  - any trigger (r/l/zr/zl) to clear the console
+  - any trigger (r/l/zr/zl) to clear the terminal
   - Minus (-) to factor Jeffrey
   - Plus (+) to exit the Homebrew
   - Everything else will show you the 'help' menu
